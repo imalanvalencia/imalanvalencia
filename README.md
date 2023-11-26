@@ -15,7 +15,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=imalanvalencia&theme=dracula&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=imalanvalencia&theme=dracula&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=imalanvalencia&theme=dracula&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imalanvalencia&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
