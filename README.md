@@ -1,5 +1,6 @@
 # 💫 About Me:
 👋HEY!<br>I'm an enthusiastic developer who loves to build amazing things. <br>From sleek websites to sizzling apps, would you like to connect and explore the exciting world of development? <br>Let's create something amazing together! <br>Check out my projects and if you have any cool ideas, let me know! 🚀✨<br> Connect and let's discover the next great project! 🤝💻
+
 [![](https://visitcount.itsvg.in/api?id=imalanvalencia&icon=3&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
