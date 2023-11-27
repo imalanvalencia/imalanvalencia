@@ -1,5 +1,7 @@
 # 💫 About Me:
 <img align="right" src='https://randommeme-five.vercel.app/' width="400px" style="height: 400px;"/>
+
+
 👋HEY!<br>I'm an enthusiastic developer who loves to build amazing things. <br>From sleek websites to sizzling apps, would you like to connect and explore the exciting world of development? <br>Let's create something amazing together! <br>Check out my projects and if you have any cool ideas, let me know! 🚀✨<br> Connect and let's discover the next great project! 🤝💻
 
 <br/>
@@ -19,14 +21,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=imalanvalencia&theme=dracula&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=imalanvalencia&theme=dracula&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=imalanvalencia&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imalanvalencia&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imalanvalencia&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 
   ## 💰 You can help me by Donating
